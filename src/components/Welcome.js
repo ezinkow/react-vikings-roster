@@ -2,7 +2,7 @@ function Welcome() {
     const currentHour = new Date().getHours();
     const message = currentHour < 5 ? "Go the fuck to sleep"
         : currentHour < 12 ? "Good morning!"
-            : currentHour < 15 ? "Good afternoon!"
+            : currentHour < 16 ? "Good afternoon!"
                 : currentHour < 18 ? "Good evening!"
                     : currentHour < 22 ? "Good night!"
                         : "go to sleep!"
