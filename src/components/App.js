@@ -1,4 +1,5 @@
 import '../App.css';
+import '../Reset.css';
 import Welcome from './Welcome'
 import { playerData } from '../data/playerdata'
 import PlayerList from './PlayerList'
