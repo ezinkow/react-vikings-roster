@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/react-vikings-roster/static/css/main.31733620.chunk.css",
-    "main.js": "/react-vikings-roster/static/js/main.c8375b83.chunk.js",
-    "main.js.map": "/react-vikings-roster/static/js/main.c8375b83.chunk.js.map",
-    "runtime-main.js": "/react-vikings-roster/static/js/runtime-main.448f14c8.js",
-    "runtime-main.js.map": "/react-vikings-roster/static/js/runtime-main.448f14c8.js.map",
+    "main.css": "/react-vikings-roster/static/css/main.6938c460.chunk.css",
+    "main.js": "/react-vikings-roster/static/js/main.f1def006.chunk.js",
+    "main.js.map": "/react-vikings-roster/static/js/main.f1def006.chunk.js.map",
+    "runtime-main.js": "/react-vikings-roster/static/js/runtime-main.5ca68306.js",
+    "runtime-main.js.map": "/react-vikings-roster/static/js/runtime-main.5ca68306.js.map",
     "static/css/2.150d169a.chunk.css": "/react-vikings-roster/static/css/2.150d169a.chunk.css",
-    "static/js/2.b2db8c09.chunk.js": "/react-vikings-roster/static/js/2.b2db8c09.chunk.js",
-    "static/js/2.b2db8c09.chunk.js.map": "/react-vikings-roster/static/js/2.b2db8c09.chunk.js.map",
-    "static/js/3.086e2c4e.chunk.js": "/react-vikings-roster/static/js/3.086e2c4e.chunk.js",
-    "static/js/3.086e2c4e.chunk.js.map": "/react-vikings-roster/static/js/3.086e2c4e.chunk.js.map",
+    "static/js/2.86a781d9.chunk.js": "/react-vikings-roster/static/js/2.86a781d9.chunk.js",
+    "static/js/2.86a781d9.chunk.js.map": "/react-vikings-roster/static/js/2.86a781d9.chunk.js.map",
+    "static/js/3.3f78c2d8.chunk.js": "/react-vikings-roster/static/js/3.3f78c2d8.chunk.js",
+    "static/js/3.3f78c2d8.chunk.js.map": "/react-vikings-roster/static/js/3.3f78c2d8.chunk.js.map",
     "index.html": "/react-vikings-roster/index.html",
     "static/css/2.150d169a.chunk.css.map": "/react-vikings-roster/static/css/2.150d169a.chunk.css.map",
-    "static/css/main.31733620.chunk.css.map": "/react-vikings-roster/static/css/main.31733620.chunk.css.map",
-    "static/js/2.b2db8c09.chunk.js.LICENSE.txt": "/react-vikings-roster/static/js/2.b2db8c09.chunk.js.LICENSE.txt",
+    "static/css/main.6938c460.chunk.css.map": "/react-vikings-roster/static/css/main.6938c460.chunk.css.map",
+    "static/js/2.86a781d9.chunk.js.LICENSE.txt": "/react-vikings-roster/static/js/2.86a781d9.chunk.js.LICENSE.txt",
     "static/media/App.css": "/react-vikings-roster/static/media/vikings banner.887e31db.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.448f14c8.js",
+    "static/js/runtime-main.5ca68306.js",
     "static/css/2.150d169a.chunk.css",
-    "static/js/2.b2db8c09.chunk.js",
-    "static/css/main.31733620.chunk.css",
-    "static/js/main.c8375b83.chunk.js"
+    "static/js/2.86a781d9.chunk.js",
+    "static/css/main.6938c460.chunk.css",
+    "static/js/main.f1def006.chunk.js"
   ]
 }
